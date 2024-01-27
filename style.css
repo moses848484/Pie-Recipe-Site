@@ -1,0 +1,271 @@
+body {
+    min-height: 100vh;
+    display: contents;
+    justify-content: left;
+    position: absolute;
+}
+
+/*footer-styling*/
+
+.grandma_footer {
+    background-color: rgb(223, 222, 223);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+/*footer-text-color-styling*/
+
+.grandma_recipe_title {
+    color: #bab44a;  
+    text-align: center;
+   }
+
+/*pie_image_styling*/
+
+.pie_image {
+    margin-left: 1%;
+    margin-right: 1%;   
+}
+
+/*pie_image_position_styling*/
+
+.pie_image_position {
+    height: 133px;
+    width: 150px;
+    margin-top: 1%;
+}
+
+
+
+.recipe_overview {
+margin-top: 1%;
+margin-right: 1%;
+margin-left: 1%;
+width: 70;
+}
+
+.recipe_description {
+    margin-left: 2%;
+    margin-right: 1%;
+    margin-bottom: 0%;
+    margin-top: 1%;
+}
+
+/*line-styling*/
+
+.straight_line {
+    width: 97.89%;
+    height: 0;
+    border: 1px solid #cdcbcb;
+    margin: 3px;
+    margin-left: 1%;
+    display:inline-block;
+}
+
+/*line-styling*/
+
+.straight_line1 {
+    width: 97.89%;
+    height: 0;
+    border: 1px solid #cdcbcb;
+    margin: 3px;
+    margin-left: 1%;
+    display:inline-block;
+}
+
+/*line-styling*/
+
+.straight_line2 {
+    width: 97.89%;
+    height: 0;
+    border: 1px solid #cdcbcb;
+    margin: 3px;
+    margin-left: 1%;
+    display:inline-block;
+}
+
+/*footer-styling*/
+
+.ingredients_footer {
+    background-color: rgb(223, 222, 223);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+/*footer-text-color-styling*/
+
+.ingredients {
+    color: #bab44a;
+}
+
+/*footer-styling*/
+
+.Directions_footer {
+    background-color: rgb(223, 222, 223);
+    margin-left: 1%;
+    margin-right: 1%;  
+}
+
+/*footer-text-color-styling*/
+
+.Directions {
+    color: #bab44a;  
+}
+
+/*recipe-text-styling*/
+
+.recipe_procedure {
+    margin-left: 2%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+/*recipe-text-styling*/
+
+.recipe_procedure1 {
+    margin-left: 2%;
+}
+
+/*recipe-text-styling*/
+
+.recipe_procedure2 {
+    margin-left: 2%;
+}
+
+/*reviews-styling*/
+
+.interesting_reviews {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+/*footer-styling*/
+
+.users_footer {
+    background-color: rgb(223, 222, 223);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+/*user-comments-color-styling*/
+
+.user_comments {
+    color: #bab44a;  
+}
+
+/*user-comment-styling*/
+
+.emilies_comment {
+    background-color: #fbf88e;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
+}
+
+/*user-comment-styling*/
+
+.Vikkies_comment {
+    background-color: #fbf88e;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
+}
+
+/*user-comment-styling*/
+
+.Jeans_comment {
+    background-color: #fbf88e;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
+}
+
+/*footer-styling*/
+
+.links_to_sites_footer {
+    background-color: rgb(223, 222, 223);
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+/*links-styling*/
+
+.links {
+    color: #bab44a;
+}
+/*links-styling*/
+
+.google_site_link {
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+/*copyright-styling*/
+
+.copyright {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+/*copyright-styling*/
+
+.copyright1 {
+    margin-left: 2%;
+    margin-right: 1%;
+    margin-top: -0.5%;
+}
+
+/*copyright-styling*/
+
+.copyright2 {
+    margin-left: 3%;
+    margin-right: 1%;
+    margin-top: -0.5%;
+}
+
+/*html-icon-styling*/
+
+.html_icons {
+    margin-left: 1%;
+   margin-top: -0.1%;
+   padding-top: -0.1%;
+   padding-bottom: -0.5%;  
+}
+
+/*icon-position-styling*/
+
+.icon_position {
+    margin-left: 0.1%;
+    background-size: 1%;
+    margin-top: 0.1%;
+    margin-bottom: 0%;
+    height: 40.7px;
+    width: 85px;  
+}
+
+/*icon-position-styling*/
+
+.icon_position1 {
+    margin-left: 0%;
+    background-size: 1%;
+    margin-top: 0.1%;
+    margin-bottom: 0%;
+    height: 40.7px;
+    width: 85px;
+}
+
+/*link-color-styling*/
+
+a:link, a:visited, a:hover {
+    color: #bab44a;  
+}
+
